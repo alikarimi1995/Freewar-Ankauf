@@ -9,13 +9,13 @@
   <line x1="160" y1="55" x2="390" y2="55" stroke="#C2B280" stroke-width="2"/>
 
   <text x="60" y="95" font-size="18" fill="#2E2E2E" font-family="Arial">Sponsi</text>
-  <text x="460" y="95" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">90k</text>
+  <text x="460" y="95" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">90.000</text>
 
   <text x="60" y="125" font-size="18" fill="#2E2E2E" font-family="Arial">Splitter der Erfahrung</text>
-  <text x="460" y="125" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">30k</text>
+  <text x="460" y="125" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">30.000</text>
 
   <text x="60" y="155" font-size="18" fill="#2E2E2E" font-family="Arial">Gegenzauber: Erfahrungsverlust</text>
-  <text x="460" y="155" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">1500</text>
+  <text x="460" y="155" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">1.500</text>
 
   <text x="60" y="185" font-size="18" fill="#2E2E2E" font-family="Arial">Wissenszauber: Leichenfledderei</text>
   <text x="460" y="185" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">550</text>
@@ -24,18 +24,18 @@
   <text x="460" y="215" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">VB</text>
 
   <text x="60" y="245" font-size="18" fill="#2E2E2E" font-family="Arial">gelber Prisma-Kristall</text>
-  <text x="460" y="245" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">70000</text>
+  <text x="460" y="245" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">70.000</text>
 
   <text x="60" y="275" font-size="18" fill="#2E2E2E" font-family="Arial">grüner Prisma-Kristall</text>
-  <text x="460" y="275" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">3000</text>
+  <text x="460" y="275" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">3.000</text>
 
   <text x="60" y="305" font-size="18" fill="#2E2E2E" font-family="Arial">roter Prisma-Kristall</text>
-  <text x="460" y="305" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50000</text>
+  <text x="460" y="305" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50.000</text>
 
   <text x="60" y="335" font-size="18" fill="#2E2E2E" font-family="Arial">schwarzer Prisma-Kristall</text>
-  <text x="460" y="335" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">10000</text>
+  <text x="460" y="335" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">10.000</text>
 
   <text x="60" y="365" font-size="18" fill="#2E2E2E" font-family="Arial">violetter Prisma-Kristall</text>
-  <text x="460" y="365" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50000</text>
+  <text x="460" y="365" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50.000</text>
 
 </svg>
