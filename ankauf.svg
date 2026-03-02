@@ -38,10 +38,4 @@
   <text x="60" y="365" font-size="18" fill="#2E2E2E" font-family="Arial">violetter Prisma-Kristall</text>
   <text x="460" y="365" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50000</text>
 
-  <text x="60" y="395" font-size="18" fill="#2E2E2E" font-family="Arial">weißer Prisma-Kristall</text>
-  <text x="460" y="395" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">3000</text>
-  
-  <text x="60" y="425" font-size="18" fill="#2E2E2E" font-family="Arial">blauer Prisma-Kristall</text>
-  <text x="460" y="425" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">2000</text>
-
 </svg>
