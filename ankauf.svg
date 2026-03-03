@@ -26,9 +26,6 @@
   <text x="60" y="245" font-size="18" fill="#2E2E2E" font-family="Arial">gelber Prisma-Kristall</text>
   <text x="460" y="245" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">70.000</text>
 
-  <text x="60" y="275" font-size="18" fill="#2E2E2E" font-family="Arial">grüner Prisma-Kristall</text>
-  <text x="460" y="275" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">3.000</text>
-
   <text x="60" y="305" font-size="18" fill="#2E2E2E" font-family="Arial">roter Prisma-Kristall</text>
   <text x="460" y="305" font-size="18" fill="#B23A48" font-family="Arial" text-anchor="end">50.000</text>
 
